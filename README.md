@@ -3,7 +3,7 @@
 
 <img src="Images\DataJobs_Dashboard.gif" alt="Data Jobs Dashboard GIF">
 
-
+[Zobacz Interaktywny Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMWZmOWQ4MzktYThhNC00YzFkLWFlMjMtNjhkNmI0YzFlNmMxIiwidCI6IjMyN2M5ZDQwLWIzODUtNGE3Ni1hNjg2LTc0ZDBiMzU0YWQ0NyIsImMiOjh9)
 
 
 
